@@ -1,0 +1,23 @@
+.container{
+    background-color: red;
+    display: flex;
+    padding-bottom: 15px;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.navEl{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 40px;
+    color: #FFFFFF;
+}
+.nav{
+    align-items: center;
+    margin-inline: auto;
+}
+.logo{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 100px;
+    height: auto;
+}
